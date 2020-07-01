@@ -6,4 +6,4 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1207|[Name of problem](https://leetcode.com/problems/problem/) | [Python](./code/)|Easy|
+|1|[Two sum](https://https://leetcode.com/problems/two-sum/) | [Python](./code/two-sum.py)|Easy|
