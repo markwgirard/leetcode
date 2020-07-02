@@ -21,6 +21,7 @@ LeetCode
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Python](problems/unique-binary-search-trees.py)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Python](problems/binary-tree-level-order-traversal-ii)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](problems/best-time-to-buy-and-sell-stock-ii.py)|Easy|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Python](problems/binary-maximum-path-sum.py)|Medium|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](problems/sum-root-to-leaf-numbers.py)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Python](problems/surrounded-regions.py)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](problems/single-number.py)|Easy|
