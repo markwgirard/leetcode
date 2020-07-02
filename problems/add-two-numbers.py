@@ -1,6 +1,6 @@
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
-        ans = ListNode(0, None)
+        ans = ListNode()
         node = ans
         carry = 0
         while True:
