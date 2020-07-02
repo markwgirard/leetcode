@@ -7,6 +7,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](problems/two-sum.py)|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](problems/add-two-numbers.py)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](problems/remove-duplicates-from-sorted-array.py)|Easy|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](problems/search-in-rotated-sorted-array.py)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Python](problems/combination-sum.py)|Medium|
