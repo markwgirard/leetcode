@@ -19,7 +19,7 @@ LeetCode
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](problems/minimum-path-sum.py)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](problems/sort-colors.py)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Python](problems/unique-binary-search-trees.py)|Medium|
-|107|[Binary Tree Level Order Trtaversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Python](problems/binary-tree-level-order-traversal-ii)|Easy|
+|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Python](problems/binary-tree-level-order-traversal-ii)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Python](problems/best-time-to-buy-and-sell-stock-ii.py)|Easy|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Python](problems/sum-root-to-leaf-numbers.py)|Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Python](problems/surrounded-regions.py)|Medium|
