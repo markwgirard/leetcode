@@ -24,16 +24,19 @@ class Solution:
 def LineIdentifierFromPoints(x1,y1,x2,y2):
     """
     Return slope/y-intercept pair (m,b) for two points (x1,y1) and (x2,y2).
-    If slope is infinite, return x where x is x-intercept.
+    If slope is infinite, instead return x where x is x-intercept.
     """
     if x1 == x2: return x1
-    if x1 > x2: return LineIdentifierFromPoints(x2,y2,x1,y1)
     deltax, deltay, cross = (x2 - x1), (y2 - y1), (x1*y2 - x2*y1)
-    m = MakeFraction(deltay,deltax)
-    b = MakeFraction(cross,deltax)
+    m = ReduceFraction(deltay,deltax)
+    b = ReduceFraction(cross,deltax)
     return (m,b)
 
-def MakeFraction(m,n):
+def ReduceFraction(m,n):
+    """
+    Reduce a fraction given as (m,n). If denominator is zero, return (0,0)
+    """
     if n == 0: return (0,0)
+    if n < 0: return ReduceFraction(-m,-n)
     g = gcd(m,n)
     return (m//g, n//g)
