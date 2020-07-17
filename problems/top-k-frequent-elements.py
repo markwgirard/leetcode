@@ -1,3 +1,5 @@
+# Heap: O(n*log(k)) time and O(n) space
+
 from collections import defaultdict
 import heapq
 
@@ -13,7 +15,7 @@ class Solution:
     
     
     
-# Bucket sort: O(n) time and O(n) space
+# Bucket sort: O(n) time and O(n^2) space (in worst case)
 
 from collections import Counter
 
