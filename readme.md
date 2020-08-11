@@ -4,7 +4,7 @@ LeetCode
 ### LeetCode Problems
 
 
-| # | Title | Solution | Difficulty |
+| # | Title | My Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](problems/two-sum.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Python](problems/add-two-numbers.py)|Medium|
